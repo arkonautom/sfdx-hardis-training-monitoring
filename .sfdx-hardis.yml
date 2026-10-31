@@ -1,0 +1,4 @@
+instanceUrl: https://orgfarm-46571621f0-dev-ed.develop.my.salesforce.com
+targetUsername: nikita.nichipurov.d3317b6ad3bb@agentforce.com
+msTeamsWebhookUrl:
+deploymentRepository: https://github.com/arkonautom/sfdx-hardis-training
